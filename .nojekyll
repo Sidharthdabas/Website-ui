@@ -1,0 +1,2 @@
+# Prevent Jekyll from processing node_modules
+# This file stops GitHub Pages / Jekyll from parsing files (e.g. node_modules) that can contain Liquid-like syntax
